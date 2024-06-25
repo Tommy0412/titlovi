@@ -1,7 +1,6 @@
 1
 00:00:06,000 --> 00:00:12,074
-Watch Online Movies and Series for FREE
-www.osdb.link/lm
+Оглашавајте свој производ или марку код нас; контактирајте www.OpenSubtitles.org
 
 2
 00:00:39,185 --> 00:00:43,185
@@ -6155,5 +6154,5 @@ Preuzeto sa www.titlovi.com
 
 1369
 01:43:00,305 --> 01:44:00,437
-Молимо вас да оцените овај титл на www.osdb.link/7bhfw
-Помозите другим корисницима да изаберу најбоље титлове
+Watch any video online with Open-SUBTITLES
+Free Browser extension: osdb.link/ext
