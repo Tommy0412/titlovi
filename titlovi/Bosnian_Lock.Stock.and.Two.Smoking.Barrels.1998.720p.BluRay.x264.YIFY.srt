@@ -1,7 +1,7 @@
 ﻿1
 00:00:06,000 --> 00:00:12,074
-Watch any video online with Open-SUBTITLES
-Free Browser extension: osdb.link/ext
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-
 
 2
 00:00:39,308 --> 00:00:43,308
@@ -5457,5 +5457,5 @@ Preuzeto sa www.titlovi.com
 
 1269
 01:47:20,305 --> 01:48:20,874
-Do you want subtitles for any video?
--=[ ai.OpenSubtitles.com ]=-
+Watch Online Movies and Series for FREE
+www.osdb.link/lm
