@@ -1,7 +1,7 @@
 1
 00:00:06,000 --> 00:00:12,074
-Watch Online Movies and Series for FREE
-www.osdb.link/lm
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-
 
 2
 00:00:38,119 --> 00:00:41,236
@@ -7005,5 +7005,5 @@ Volim te!
 
 1619
 01:57:17,305 --> 01:58:17,187
-Reklamirajte va proizvod ili brend ovdje 
-kontaktirajte nas www.OpenSubtitles.org danas
+Watch Online Movies and Series for FREE
+www.osdb.link/lm
