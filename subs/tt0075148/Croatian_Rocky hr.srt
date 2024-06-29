@@ -1,7 +1,7 @@
 1
 00:00:06,000 --> 00:00:12,074
-Watch Online Movies and Series for FREE
-www.osdb.link/lm
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-
 
 2
 00:01:39,141 --> 00:01:41,351
@@ -6899,5 +6899,5 @@ PREVOD I OBRADA
 
 1552
 01:57:11,305 --> 01:58:11,607
-Watch Online Movies and Series for FREE
-www.osdb.link/lm
+Molimo vas da ocijenite ovaj titl na www.osdb.link/jv2d
+Pomognite drugim korisnicima da izaberu najbolje titlove
